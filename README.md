@@ -36,7 +36,7 @@ pkg install python
 git clone https://github.com/cyhhorold/webcyber
 cd webcyber
 sudo python3 installer.py
-sudo python3 ltools.py
+sudo python3 webcyber.py
 ```
 ### / Termux
 
@@ -44,5 +44,5 @@ sudo python3 ltools.py
 git clone https://github.com/cyhhorold/webcyber
 cd webcyber
 python3 installer.py
-python3 ltools.py
+python3 webcyber.py
 ```
