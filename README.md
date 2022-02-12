@@ -14,7 +14,7 @@ Available Templates :
 * Obtain domain information
 * Attacks dos
 * sqlinjection
-* wp-scan brut force
+* wp-scan brute force
 
 
 ## Tested On :
