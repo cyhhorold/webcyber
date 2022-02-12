@@ -12,6 +12,9 @@ Available Templates :
 * Find the site admin page
 * Attacks with scanners ٔNmap
 * Obtain domain information
+* Attacks dos
+* sqlinjection
+* wp-scan brut force
 
 
 ## Tested On :
